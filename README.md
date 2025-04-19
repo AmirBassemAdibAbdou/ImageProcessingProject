@@ -8,9 +8,8 @@ This project involves analyzing and transforming a grayscale image represented a
 
 ---
 
-## Installation  
 ### Dependencies  
 - Python 3.x  
 - Required libraries:  
   ```bash
-  pip install numpy matplotlib pandas scikit-image
+  numpy matplotlib pandas scikit-image
